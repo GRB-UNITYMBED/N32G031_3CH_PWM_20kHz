@@ -1,6 +1,6 @@
 # N32G031_TRIPLE_PWM_WWDG — High-Frequency PWM & System Safety
 
-![pwm_wwdg](doc/images/Triple_PWM_WWDG.png)
+![pwm_wwdg](doc/images/3CH_PWM_20kHz.png)
 
 An advanced embedded control project designed to demonstrate high-frequency hardware PWM generation and system reliability using the **Nations N32G031** (Cortex-M0). This project highlights how to synchronize multiple timers (TIM1, TIM3) at 20kHz, dynamically adjust duty cycles via an analog potentiometer, and implement a bare-metal Window Watchdog (WWDG) to ensure system stability. This project is fully optimized for cross-platform workflows using UnityMbed.
 
