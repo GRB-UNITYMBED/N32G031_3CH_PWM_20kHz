@@ -1,4 +1,4 @@
-# N32G031_TRIPLE_PWM_WWDG — High-Frequency PWM & System Safety
+# N32G031_3CH_PWM_20kHz — High-Frequency PWM & System Safety
 
 ![pwm_wwdg](doc/images/3CH_PWM_20kHz.png)
 
